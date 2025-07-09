@@ -1,2 +1,2 @@
 # sigmoid-neuron.cpp
-a c++ class for a basic neuron. 
+a c++ class that simulates a single artificial neuron using the sigmoid activation function but with swag
